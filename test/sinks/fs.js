@@ -1,5 +1,5 @@
 import { Writable, pipeline } from 'node:stream';
-import { stream } from '@eik/common';
+import { stream } from '@eik/common-utils';
 import { URL } from 'node:url';
 import slug from 'unique-slug';
 import path from 'node:path';

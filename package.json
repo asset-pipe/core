@@ -19,7 +19,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@eik/common": "3.0.1",
+    "@eik/common-validators": "4.0.0-next.11",
+    "@eik/common-utils": "4.0.0-next.11",
     "@eik/sink": "1.2.1",
     "@metrics/client": "2.5.2",
     "abslog": "2.4.4",
